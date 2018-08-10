@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JugueteCR</string>
+    <string name="ingrese_un_juguete">Ingrese un Juguete</string>
+    <string name="nombre_del_juguete">Nombre del Juguete</string>
+    <string name="edad">Edad</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="material_que_esta_hecho">Material que esta hecho</string>
+
+    <!-- Nodos Firebase -->
+    <string name="nodo_juguete">juguete</string>
+
+    <!-- Campos de los nodos -->
+    <string name="campo_nombre">campo_nombre</string>
+    <string name="campo_precio">campo_precio</string>
+    <string name="campo_edad">campo_edad</string>
+    <string name="campo_descrip">campo_descrip</string>
+    <string name="campo_mater">campo_mater</string>
+
+</resources>

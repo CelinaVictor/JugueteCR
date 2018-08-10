@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037062795638",
+    "firebase_url": "https://juguetescr-5b70a.firebaseio.com",
+    "project_id": "juguetescr-5b70a",
+    "storage_bucket": "juguetescr-5b70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037062795638:android:92fd93e615b6e371",
+        "android_client_info": {
+          "package_name": "com.example.juguetecr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037062795638-ua4rh98f40kus4mecreih1e8lab89qm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lca11Yge-FhOWuPiB9Gkvy_jvV9Hack"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
